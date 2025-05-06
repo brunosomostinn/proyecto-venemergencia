@@ -1,0 +1,25 @@
+.elementor-525 .elementor-element.elementor-element-ca07cf3{--display:flex;--min-height:320px;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:space-around;--gap:30px 30px;--row-gap:30px;--column-gap:30px;--border-radius:11px 11px 11px 11px;--margin-top:50px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-525 .elementor-element.elementor-element-ca07cf3:not(.elementor-motion-effects-element-type-background), .elementor-525 .elementor-element.elementor-element-ca07cf3 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-525 .elementor-element.elementor-element-445bad9{--display:flex;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:0px;--margin-bottom:0px;--margin-left:0px;--margin-right:0px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-525 .elementor-element.elementor-element-63e8274 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-525 .elementor-element.elementor-element-63e8274{text-align:center;}.elementor-525 .elementor-element.elementor-element-63e8274 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:21px;font-weight:600;color:#383838;}.elementor-525 .elementor-element.elementor-element-691d5e3 > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-525 .elementor-element.elementor-element-691d5e3{text-align:center;}.elementor-525 .elementor-element.elementor-element-691d5e3 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:14px;font-weight:400;line-height:20px;color:#626262;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-525 .elementor-element.elementor-element-df6632b > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-525 .elementor-element.elementor-element-df6632b{text-align:center;font-family:"Poppins", Sans-serif;font-size:14px;font-weight:400;color:#626262;}.elementor-525 .elementor-element.elementor-element-5059a34{text-align:center;}.elementor-525 .elementor-element.elementor-element-5059a34 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:600;}@media(max-width:1024px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );}}@media(max-width:767px){.elementor-widget-heading .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );}.elementor-widget-text-editor{font-size:var( --e-global-typography-text-font-size );}}/* Start custom CSS for text-editor, class: .elementor-element-df6632b */.testimonial-contenido {
+    min-height: 149px !important;
+}/* End custom CSS */
+/* Start custom CSS for container, class: .elementor-element-ca07cf3 */.titulo-testimonial::before {
+  content: url("wp-content/uploads/2025/03/Group.png"); /* Usa el valor del contador */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+  top: 45px;
+  margin-top: -225px;
+  font-size: 17px;
+}
+
+
+/*#testimoniales .status-publish::before {
+  content: url("wp-content/uploads/2025/03/Group.png"); /* Usa el valor del contador *//*
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+    top: -45px;
+  font-size: 17px;
+}
+*//* End custom CSS */
